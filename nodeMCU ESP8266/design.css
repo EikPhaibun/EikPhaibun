@@ -1,0 +1,45 @@
+body{
+    margin: 0px auto ;
+    background-color: black;
+}
+header{
+    background-color: #19282F;
+    height: 75px;
+    width: 100%;
+    font-size: 27px;
+    color: #F0A500;
+    display: flex;
+    justify-content: center;
+}
+section{
+    background-color: #180A0A;
+    width: 450px;
+    height: 60px;
+    margin: 15px 10px;
+}
+aside{
+    display: flex;
+    float: left;
+    padding: 11px 15px;
+}
+input{
+    padding: 6px 25px;
+    font-size: 16px;
+}
+
+.text_onoff #span01{
+    color: aquamarine;
+    font-size: 27px;
+}
+.text_onoff #span02{
+    color: crimson;
+    font-size: 27px;
+}
+.setting_bn02{
+    background-color: #C3FF99;
+}
+.setting_bn01{
+    background-color: #F37878;
+}
+
+/* C3FF99 เขียว  F37878 แดง*/
